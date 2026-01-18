@@ -19,8 +19,8 @@ Parkinson's Disease affects the muscles that control speech. Up to **90% of peop
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/pd-voice-analysis.git
-cd pd-voice-analysis
+git clone https://github.com/hebamuh68/pd-voice-features.git
+cd pd-voice-features
 
 # Create a virtual environment (recommended)
 conda create -n pd_voice python=3.11
@@ -72,7 +72,7 @@ See [Voice_Feature_Extraction.ipynb](Voice_Feature_Extraction.ipynb) for the com
 ## Project Structure
 
 ```
-pd-voice-analysis/
+pd-voice-features/
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
 ├── Voice_Feature_Extraction.ipynb     # Main analysis notebook
@@ -108,10 +108,10 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{pd_voice_analysis,
-  author = {Your Name},
+  author = {Heba Allah Hashim},
   title = {Voice Feature Extraction for Parkinson's Disease Detection},
   year = {2026},
-  url = {https://github.com/YOUR_USERNAME/pd-voice-analysis}
+  url = {https://github.com/hebamuh68/pd-voice-features}
 }
 ```
 
