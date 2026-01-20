@@ -2,6 +2,13 @@
 
 An explainable AI approach for early Parkinson's Disease (PD) detection through acoustic voice analysis.
 
+<img width="2086" height="925" alt="shimmer_comparison_by_gender" src="https://github.com/user-attachments/assets/61a1b570-9b28-4061-810c-5da68e0f960f" />
+<img width="2086" height="925" alt="pitch_comparison_by_gender" src="https://github.com/user-attachments/assets/6103c7ee-4275-43e6-8383-fc523624812c" />
+<img width="2086" height="925" alt="jitter_comparison_by_gender" src="https://github.com/user-attachments/assets/29278932-49ea-4f85-9e0f-00d423e9cefa" />
+<img width="2086" height="925" alt="hnr_comparison_by_gender" src="https://github.com/user-attachments/assets/d49de5fc-4cd0-4243-9e36-9bdb299a77d5" />
+
+
+
 ## Background
 
 Parkinson's Disease affects the muscles that control speech. Up to **90% of people with PD develop voice changes**, often before other motor symptoms appear. This makes voice analysis a promising non-invasive biomarker for early detection.
